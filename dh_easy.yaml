@@ -1,8 +1,0 @@
-qa:
-  individual_validations:
-    url:
-      required: true
-      type: Url
-    title:
-      required: true
-      type: String
