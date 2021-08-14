@@ -1,1 +1,0 @@
-gem 'dh_easy-qa'
